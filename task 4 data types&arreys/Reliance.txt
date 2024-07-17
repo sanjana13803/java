@@ -1,0 +1,19 @@
+class Reliance
+{
+public static void main(String Super market[])
+{
+     String  vegetables []={"carrot","tomato","ladiesFinger","beans"};
+   String fruits[]={"apple","orange","Mango","blueBerry";
+  String chocolates[]={"dairyMilk","milkyBar","kitkat"};
+      String groceries[]={"salt","sugar","dal","chilly"};
+     
+       
+
+System.out.println("Vegetables is:" + vegetables);
+System.out.println(" Fruits is:" +fruits );
+System.out.println(" Chocolates is:" +chocolates);
+System.out.println("  Groceries is:" +groceries);
+
+
+}
+}
