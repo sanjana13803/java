@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazon/amazon.iml" filepath="$PROJECT_DIR$/amazon/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/has-a-relationship.iml" filepath="$PROJECT_DIR$/.idea/has-a-relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel/hotel.iml" filepath="$PROJECT_DIR$/hotel/hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop/laptop.iml" filepath="$PROJECT_DIR$/laptop/laptop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify.iml" filepath="$PROJECT_DIR$/spotify/spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supermarket/supermarket.iml" filepath="$PROJECT_DIR$/supermarket/supermarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zomato/zomato.iml" filepath="$PROJECT_DIR$/zomato/zomato.iml" />
+    </modules>
+  </component>
+</project>
